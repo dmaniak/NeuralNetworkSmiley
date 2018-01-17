@@ -1,4 +1,0 @@
-﻿  NeuralNetworkSmiley.cpp
-NeuralNetworkSmiley.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: __thiscall network::network(class std::initializer_list<int>,struct properties &)" (??0network@@QAE@V?$initializer_list@H@std@@AAUproperties@@@Z)" in Funktion "_main".
-NeuralNetworkSmiley.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: __thiscall network::~network(void)" (??1network@@QAE@XZ)" in Funktion "_main".
-D:\David\Documents\Visual Studio 2015\Projects\NeuralNetworkSmiley\Debug\NeuralNetworkSmiley.exe : fatal error LNK1120: 2 nicht aufgelöste Externe
