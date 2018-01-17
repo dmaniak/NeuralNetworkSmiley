@@ -6,8 +6,10 @@
 
 int main()
 {
+	
 	properties properties;
-	network({ 2, 3, 1 }, properties);
+	network net({ 2, 3, 1 }, properties);
+	
     return 0;
 }
 
